@@ -1,0 +1,44 @@
+.product{
+   ;
+    width: 25%;
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+
+  border-top: 20px double rgb(248, 21, 21);
+  border-right: 20px double rgb(243, 5, 203);
+  border-left: 20px double rgb(219, 21, 21);
+  border-bottom: 20px double rgb(236, 3, 197);
+  border-radius: 50px;
+   
+}
+img{
+    width: 100%;
+}
+.discount_tag{
+ 
+    background-color: purple;
+    color: white;
+  ;
+    border-top-right-radius: 12px;
+    border-bottom-right-radius: 12px;
+ 
+}
+.actions{
+    background-color: blue;
+    text-align: center;
+}
+.price{
+    text-align: center;
+    background-color: aliceblue;
+    color: red;
+}
+.compare{
+    background-color: red;
+    text-align: center;
+}
